@@ -13,7 +13,9 @@ Here is an example of how to declare a variable.
 ```python
 greeting = "Hi"
 ```
-You'll notice that if you run this code it seems like it doesn't do anything. However, it is in fact setting the variable `greeting` to the value `"Hi"`. In Thonny, select the View menu then select Variables. This will open a new pane to the right of the main editor. Now you should see `greeting` under the Name column and `"Hi"` under the Value column.
+You'll notice that if you run this code it seems like it doesn't do anything. However, it is in fact setting the variable `greeting` to the value `"Hi"`. In Thonny, 
+{{<snippet "instructions/variables_pane.md">}}.
+ This will open a new pane to the right of the main editor. Now you should see `greeting` under the Name column and `"Hi"` under the Value column.
 
 Now before running the next example I want you think about what you expect the code to do.
 ```python
@@ -42,9 +44,11 @@ first_and_last_name_of_the_person = "Billy Bob"
 ```
 Now that you have a basic understand of variables play around in Thonny by making other variables. Then see if you can use the print function to print the variables you created.
 
-Expand content to show answers
+{{% expand title="My Solution" %}}
 ```python
 greeting = "Sup"
 print(greeting)
+# Bonus solution
 print(greeting, "Homie")
 ```
+{{% /expand %}}

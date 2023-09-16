@@ -1,0 +1,1 @@
+select the View menu then select Variables
