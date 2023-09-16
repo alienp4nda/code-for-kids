@@ -11,20 +11,20 @@ A programmer writes code in a programming language to create programs. Many prog
 Computer programs must be written very carefully. If the programmer makes mistakes the program might then "crash" or stop working. When a program has a problem because of how the code was written, this is called a "bug". A very small mistake can cause a very big problem. 
 
 Go over some terms used
-  - {{< snippet "glossary/syntax.md" >}}
-  - {{< snippet "glossary/exceptions_errors.md">}}
-  - {{< snippet "glossary/variables.md">}}
-  - {{< snippet "glossary/conditionals.md">}}
-  - {{< snippet "glossary/loops.md">}}
-  - {{< snippet "glossary/data_types.md">}}
-  - {{< snippet "glossary/functions.md">}}
-  - {{< snippet "glossary/function_parameters.md">}}
-  - {{< snippet "glossary/return.md">}}
+  - {{< snippet "glossary/bugs.md">}}
   - {{< snippet "glossary/comments.md">}}
   - {{< snippet "glossary/compiler.md">}}
-  - {{< snippet "glossary/transpiler.md">}}
-  - {{< snippet "glossary/interpreter.md">}}
+  - {{< snippet "glossary/conditionals.md">}}
+  - {{< snippet "glossary/data_types.md">}}
   - {{< snippet "glossary/debugger.md">}}
-  - {{< snippet "glossary/bugs.md">}}
+  - {{< snippet "glossary/exceptions_errors.md">}}
+  - {{< snippet "glossary/functions.md">}}
+  - {{< snippet "glossary/function_parameters.md">}}
+  - {{< snippet "glossary/interpreter.md">}}
+  - {{< snippet "glossary/loops.md">}}
+  - {{< snippet "glossary/return.md">}}
+  - {{< snippet "glossary/variables.md">}}
+  - {{< snippet "glossary/transpiler.md">}}
+  - {{< snippet "glossary/syntax.md" >}}
  
 Use the arrows at the top right of the page to navigate backwards and forwards in order to move through the sections.
