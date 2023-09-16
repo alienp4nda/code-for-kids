@@ -1,0 +1,11 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Coding for kids'
+
+[module]
+[[module.imports]]
+    path = 'github.com/McShelby/hugo-theme-relearn'
+
+[markup]
+  [markup.highlight]
+    style = 'catppuccin-latte'

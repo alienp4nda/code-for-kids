@@ -1,0 +1,1 @@
+**Data type**: the kind, or type, of data

@@ -1,0 +1,1 @@
+**Declaration**: is the act of declaring, creating, something (i.e. function, variable, class)

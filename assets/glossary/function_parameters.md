@@ -1,0 +1,1 @@
+**Function Parameter**: also referred to as a parameter or just param are variable placeholder for a function

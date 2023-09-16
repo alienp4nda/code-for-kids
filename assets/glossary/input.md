@@ -1,0 +1,1 @@
+**Input**: data received by a user or another program

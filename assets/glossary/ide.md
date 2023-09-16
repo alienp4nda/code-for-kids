@@ -1,0 +1,1 @@
+**IDE**: Integrated Development Environment is an application that centralizes common tools used by developers.

@@ -1,0 +1,1 @@
+**Exceptions/Errors**: situations where the code fails to run as expected

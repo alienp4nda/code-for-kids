@@ -1,0 +1,1 @@
+**Debugger**: a tool used to troubleshoot code as it's running/executing

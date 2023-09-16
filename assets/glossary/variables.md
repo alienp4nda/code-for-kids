@@ -1,0 +1,1 @@
+**Variables**: a variable is like a box that can hold different things

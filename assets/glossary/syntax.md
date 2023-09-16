@@ -1,0 +1,1 @@
+**Syntax**: rules that govern the structure of the language (i.e. reserved keywords, use of punctuation)
