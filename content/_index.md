@@ -1,9 +1,8 @@
 +++
 archetype = "home"
-title = ""
+title = "Basic Programming Concepts"
 +++
 
-# Basic Programming Concepts
 A programming language is a type of written language that tells computers what to do in order to work. Programming languages are used to make all the computer programs and computer software. A programming language is like a set of instructions that the computer follows to do something.
 
 A programmer writes code in a programming language to create programs. Many programs must be  "compiled". This means that another computer program, called a compiler, translates the source code into another language.

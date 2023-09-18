@@ -1,6 +1,7 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'Coding for kids'
+enableGitinfo = true
 
 [module]
 [[module.imports]]
@@ -9,3 +10,13 @@ title = 'Coding for kids'
 [markup]
   [markup.highlight]
     style = 'catppuccin-latte'
+
+[params]
+  showVisitedLinks = true
+  collapsibleMenu = true
+
+[[menu.shortcuts]]
+name = "<i class='fab fa-fw fa-github'></i> GitHub repo"
+identifier = "ds"
+url = "https://github.com/alienp4nda/code-for-kids"
+weight = 10
