@@ -15,6 +15,6 @@ Throughout this tutorial you will see code written in blocks like the one below.
 print("This is code in the code block")
 ```
 
-In order to learn coding it is best not just read this text but to write the code and run it. We will be using [Thonny](https://thonny.org). Write the code in this tutorial you in Thonny and then run it to see what the code does.
+In order to learn coding it is best not just read this text but to write the code and run it. We will be using [Thonny](https://thonny.org). Write the code in this tutorial into Thonny and then run it to see what the code does, do not copy and paste the code.
 
-If you struggle with a section write down what you know and then write a question about what you don't understand. Afterwards, re-read that section and see if you can your question. If you can answer your question write it down. Once you're done with a section we will go over what you learned and what you still don't understand.
+If you struggle with a section write down what you know and then write a question about what you don't understand. Afterwards, re-read that section and see if you can answer your question. If you can answer your question write it down, otherwise ask for help. Once you're done with a section we will go over what you learned and what you still don't understand.
