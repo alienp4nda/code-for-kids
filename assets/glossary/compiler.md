@@ -1,0 +1,1 @@
+**Compiler**: a program that turns code into machine language

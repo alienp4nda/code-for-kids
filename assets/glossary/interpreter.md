@@ -1,0 +1,1 @@
+**Interpreter**: a computer program that directly executes instructions written without them previously compiled into a machine language
